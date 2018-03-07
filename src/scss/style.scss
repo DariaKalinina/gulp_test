@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-size: $font-size;
+  font-family: sans-serif;
+  background-color: yellow;
+}
+
+.test{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  transform: rotate(45deg);
+}
