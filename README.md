@@ -1,2 +1,2 @@
-# gulp_ex
+# gulp_test
 настройка gulp + тест
