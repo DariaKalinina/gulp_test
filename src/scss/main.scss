@@ -1,4 +1,8 @@
-//переменные
-$font-size: 14px;
+//переменные: цвета
+$white: #fff;
 
-@import 'style.scss';
+//mixin
+@import 'mixins/mixin.scss';
+
+//block
+@import 'block/header.scss';
