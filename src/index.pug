@@ -1,12 +1,10 @@
 extends templates/template.pug
-include templates/header.pug
+include templates/first.pug
 
 block content
   //внешний контайнер
   .wrapper
-    //внутренний контайнер для адаптива
-    .container
-      +header
+      +first
             
 block scripts
   script(src='js/script.min.js')
